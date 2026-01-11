@@ -15,3 +15,4 @@ class Category extends Model
         'slug'
     ];
 }
+// Update untuk Pull Request
